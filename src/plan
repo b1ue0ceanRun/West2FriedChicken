@@ -1,0 +1,27 @@
+
+
+
+
+
+
+
+
+
+
+                         果汁类
+             饮料类       啤酒类
+
+             套餐类        炸鸡
+                          饮料类成员变量     啤酒
+                                           果汁
+
+
+             接口    出售套餐throw new IngredientSortOutException(juice.name + "不足");
+                    批量进货
+
+
+
+
+
+
+
